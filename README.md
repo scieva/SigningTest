@@ -16,6 +16,7 @@ https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-
 https://docs.github.com/en/github/authenticating-to-github/adding-a-new-gpg-key-to-your-github-account
 
 4. Tell Git about your signing key <br/>
+https://docs.github.com/en/github/authenticating-to-github/telling-git-about-your-signing-key
 
 5. Sign commits <br/>
 
