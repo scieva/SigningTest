@@ -19,6 +19,7 @@ https://docs.github.com/en/github/authenticating-to-github/adding-a-new-gpg-key-
 https://docs.github.com/en/github/authenticating-to-github/telling-git-about-your-signing-key
 
 5. Sign commits <br/>
+https://docs.github.com/en/github/authenticating-to-github/signing-commits
 
 6. Sign tags <br/>
 
