@@ -24,6 +24,7 @@ https://docs.github.com/en/github/authenticating-to-github/signing-commits
 6. Sign tags <br/>
 
 See also: <br/>
+Telling Git about your signing key
 https://docs.github.com/en/github/authenticating-to-github/telling-git-about-your-signing-key
 
 https://docs.github.com/en/github/using-git/setting-your-username-in-git 
