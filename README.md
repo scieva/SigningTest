@@ -24,7 +24,14 @@ https://docs.github.com/en/github/authenticating-to-github/signing-commits
 6. Sign tags <br/>
 
 See also: <br/>
+Telling Git about your signing key <br/>
 https://docs.github.com/en/github/authenticating-to-github/telling-git-about-your-signing-key
 
 https://docs.github.com/en/github/using-git/setting-your-username-in-git 
 https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address 
+
+https://makandracards.com/makandra-orga/37763-gpg-extract-private-key-and-import-on-different-machine
+
+testing!!!
+im still testing!!
+test!!!
