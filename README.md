@@ -1,10 +1,10 @@
-# SigningTest
+## SigningTest
 
-Trying out GPG signing
+# Trying out GPG signing
 
 https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification
 
-To sign commits using GPG and have those commits verified on GitHub, follow these steps:
+# To sign commits using GPG and have those commits verified on GitHub, follow these steps:
 
 1. Check for existing GPG keys <br/>
 https://docs.github.com/en/github/authenticating-to-github/checking-for-existing-gpg-keys
